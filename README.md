@@ -3,7 +3,7 @@ A Sublime Text 2/3 Plugin to manage WordPress websites.
 
 This repo is a rebirth of the original Sublpress created by @brzrkr (https://github.com/brzrkr/Sublpress)
 
-## Description
+## Sublpress Description
 
 Sublpress is a Sublime Text 2 / 3 plugin to manage WordPress 3.5 installations from within Sublime Text. The mostly quick panel based system allows for managing settings, posts(and custom post types), pages and taxonomy terms of a WordPress blog. 
 
